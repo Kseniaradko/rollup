@@ -1,0 +1,23 @@
+body {
+    background: black;
+}
+
+h1 {
+    color: whitesmoke;
+    font-style: italic;
+    word-spacing: 10px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(235, 214, 22);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
